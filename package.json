@@ -1,0 +1,22 @@
+{
+  "name": "arjinbot",
+  "version": "0.0.1",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "node bot.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "common-tags": "^1.8.0",
+    "cpu-stat": "^2.0.1",
+    "discord.js": "^12.4.1",
+    "fs": "^0.0.1-security",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "until": "^0.1.1",
+    "weather-js": "^2.0.0",
+    "weather.js": "^0.1.0"
+  }
+}
